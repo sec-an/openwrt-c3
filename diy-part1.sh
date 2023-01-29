@@ -20,4 +20,4 @@
 # Remove UnblockNeteaseMusicGo upx commands
 # sed -i "/upx/d" package/lean/UnblockNeteaseMusicGo/Makefile || true
 
-echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default
+echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
